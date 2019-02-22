@@ -1,0 +1,12 @@
+
+.widgetContainer {
+	background: red;
+	float: left;
+	width: 30vw;
+	height: 150px;
+	margin: 1px;
+}
+
+#deviceStatusSectionContainer {
+	display: inline-block;
+}
